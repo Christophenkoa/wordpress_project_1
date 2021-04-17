@@ -1,0 +1,7 @@
+phpmyadmin: 
+	username = 'root'
+	password = ''
+
+wordpress admin:
+	username = 'steve'
+	password = 'steve1234'
